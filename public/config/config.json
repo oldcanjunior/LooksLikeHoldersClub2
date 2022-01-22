@@ -6,8 +6,8 @@
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "Looks Like Holders Club",
-  "SYMBOL": "LLHC",
+  "NFT_NAME": "Looks Like Holders Club V2",
+  "SYMBOL": "LLHC2",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 20000000000000000,
   "DISPLAY_COST": 0.02,
